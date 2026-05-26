@@ -10,10 +10,15 @@ FEATURES <br>
 
  TECH STACK<br>
  Frontend: React.js, Tailwind CSS
+ 
  Backend: FastAPI 
+ 
  Database: MongoDB 
+ 
  Storage: Cloudinary for storing documents
+ 
  Model Training: Lightining AI 
+ 
  Authentication: Firebase 
 
  AI & ML<br>
