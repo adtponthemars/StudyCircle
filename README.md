@@ -24,6 +24,9 @@ FEATURES <br>
  AI & ML<br>
 Subject Classification Model: It works on NLP, feature extraction like TF-IDF, and supervised classification algorithm (Naive Bayes in this case) to predict the subject based on text patterns
 
+
+GeminiAPI: Used for analysing the uploaded document and provide quick summary. 
+
 ##Screenshots 
 
 ###Homepage
@@ -56,7 +59,6 @@ Subject Classification Model: It works on NLP, feature extraction like TF-IDF, a
 
 
 
-GeminiAPI: Used for analysing the uploaded document and provide quick summary. 
  
 
  
