@@ -1,6 +1,6 @@
 A smart web application for sharing and organizing study materials with AI-powered document analysis and summarization.
 
-FEATURES 
+FEATURES <br>
 Upload and share study materials
 * ML-based subject classification for uploaded documents
 * AI-generated summaries using Gemini API
